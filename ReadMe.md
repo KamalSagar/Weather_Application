@@ -23,7 +23,7 @@ This is a simple Weather Application built using HTML, CSS, and JavaScript, powe
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/weather-app.git
+    git clone https://github.com/KamalSagar/Weather_Application.git
     ```
 
 2. **Navigate to the project directory**:
@@ -66,6 +66,9 @@ This is a simple Weather Application built using HTML, CSS, and JavaScript, powe
    - The app uses metric units (Celsius) for displaying temperature and windspeed.
 
 ## Screenshots
+
+| ![Your Weather Screen](screenshots/your_weather.png) |
+|------------------------------------------------------|
 
 | ![Your Weather Screen](screenshots/your_weather.png) | ![Search Weather Screen](screenshots/search_weather.png) |
 |------------------------------------------------------|----------------------------------------------------------|
