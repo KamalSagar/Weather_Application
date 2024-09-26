@@ -67,7 +67,7 @@ This is a simple Weather Application built using HTML, CSS, and JavaScript, powe
 
 ## Screenshots
 
-| ![Your Weather Screen](screenshots/your_weather.png) |
+| ![Your Weather Screen](screenshots/home_screen.png) |
 |------------------------------------------------------|
 
 | ![Your Weather Screen](screenshots/your_weather.png) | ![Search Weather Screen](screenshots/search_weather.png) |
